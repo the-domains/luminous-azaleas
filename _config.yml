@@ -1,4 +1,3 @@
-layout_spectrum: 0.792173404013738
 typography_spectrum: 0.7550344674382359
 color:
   brandStrength: 0.23108118982054293
@@ -6,9 +5,11 @@ color:
   saturation: 0.5243600888643414
   rhythmicContrast: 0.24022212927229702
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+layout_spectrum: 0.792173404013738
 name: luminous azaleas
+title: Hi there!

@@ -1,3 +1,4 @@
+layout_spectrum: 0.792173404013738
 typography_spectrum: 0.7550344674382359
 color:
   brandStrength: 0.23108118982054293
@@ -10,10 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.792173404013738
 name: luminous azaleas
-navigation:
-  - name: my linkedin
-    url: 'https://pl.linkedin.com/in/mateuszromanowski'
-    type: external
-title: Hi there!

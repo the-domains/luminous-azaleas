@@ -12,4 +12,8 @@ color:
     - '#CEAFC0'
 layout_spectrum: 0.792173404013738
 name: luminous azaleas
+navigation:
+  - name: my linkedin
+    url: 'https://pl.linkedin.com/in/mateuszromanowski'
+    type: external
 title: Hi there!
